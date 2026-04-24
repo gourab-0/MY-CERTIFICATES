@@ -78,7 +78,6 @@ This repository documents my verified certifications, security training, and pro
 </table>
 
 </div>
----
 
 ## 🌐 Cybersecurity Job Simulations (Forage)
 
