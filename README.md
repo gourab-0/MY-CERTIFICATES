@@ -22,6 +22,8 @@ This repository documents my verified certifications, security training, and pro
 
 #### ⚡ Specialized Skill Modules
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
@@ -75,6 +77,7 @@ This repository documents my verified certifications, security training, and pro
   </tr>
 </table>
 
+</div>
 ---
 
 ## 🌐 Cybersecurity Job Simulations (Forage)
