@@ -55,6 +55,12 @@ A complete list of my certifications, training completions, and technical badges
 
 ---
 
+## 🛡️ TryHackMe (THM)
+
+* [THM Pre-Security Path](./THM-pre-security%20path.pdf)
+
+---
+
 ## 🌐 Virtual Experience Programs (Forage)
 
 * [Deloitte - Cybersecurity Virtual Job Simulation](./CS%20virtual%20jobs%20cert/Delitte%20CS%20VJ.pdf)
